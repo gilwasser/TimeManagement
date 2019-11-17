@@ -1,0 +1,10 @@
+read Algorithms 40
+read Logic 52
+watch Logic 4
+watch Algorithms 2
+watch Algorithms 3
+watch I.O 3
+mmn Algorithms 11
+mmn Algorithms 11
+mmn Algorithms 11
+mmn Algorithms 11
